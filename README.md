@@ -12,7 +12,7 @@
 
 This project presents a comprehensive sales analysis for a fictional European e-commerce company. The goal was to answer key business questions using SQL queries and visualize the findings in an interactive Looker Studio dashboard.
 
-The analysis covers two full years of transactional data (2023–2024) including orders, revenue, customer segments, product categories, acquisition channels, and geographic markets.
+The analysis covers two full years of transactional data (2023-2024) including orders, revenue, customer segments, product categories, acquisition channels, and geographic markets.
 
 ---
 
