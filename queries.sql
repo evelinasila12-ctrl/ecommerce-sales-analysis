@@ -86,7 +86,7 @@ ORDER BY cancellation\_rate\_pct DESC;
 
 
 
-###### **Kim są nasi najcenniejsi klienci? (nowi vs powracający)**
+###### **Who are our most valuable customers? (new vs returning)**
 
 
 
