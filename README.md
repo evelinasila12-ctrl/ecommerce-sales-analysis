@@ -22,7 +22,7 @@ The analysis covers two full years of transactional data (2023–2024) including
 2. What does the month-over-month sales trend look like in 2023 vs 2024?
 3. Which acquisition channels bring the most valuable customers?
 4. What is the cancellation rate by product category?
-5. Who are our most valuable customers — new vs returning?
+5. Who are our most valuable customers - new vs returning?
 6. Which countries generate the most revenue and how does order value differ?
 
 ---
@@ -56,12 +56,12 @@ The analysis covers two full years of transactional data (2023–2024) including
 
 The interactive dashboard was built in **Looker Studio** and consists of two pages:
 
-**Page 1 — Overview**
+**Page 1 - Overview**
 - Revenue by Category (bar chart)
 - Monthly Revenue Trend (line chart)
 - Revenue by Acquisition Channel (pie chart)
 
-**Page 2 — Deep Dive**
+**Page 2 - Deep Dive**
 - Revenue and Order Value by Country (table)
 - Cancellation Rate by Category (horizontal bar chart)
 - New vs Returning Customers Revenue (bar chart)
@@ -76,4 +76,4 @@ The interactive dashboard was built in **Looker Studio** and consists of two pag
 - **Query tool:** pgAdmin 4
 - **Visualization:** Looker Studio (Google Data Studio)
 - **Dataset size:** 5,000 orders, 60 products, 1,800 unique customers
-- **Time period:** January 2023 – December 2024
+- **Time period:** January 2023 - December 2024
